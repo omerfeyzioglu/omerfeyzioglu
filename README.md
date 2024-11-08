@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ömer</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
-- 🔭 I’m currently working on **markdown-note-taking-app**
-
 - 💬 Ask me about **ASP .NET CORE , SPRING BOOT**
 
 - 📫 How to reach me **oomerfeyzioglu@gmail.com**
