@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **markdown-note-taking-app**
 
-- 💬 Ask me about **spring boot , asp .net core**
+- 💬 Ask me about **ASP .NET CORE , SPRING BOOT**
 
 - 📫 How to reach me **oomerfeyzioglu@gmail.com**
 
